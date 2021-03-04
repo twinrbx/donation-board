@@ -9,6 +9,7 @@ Modular, open sourced donation board with a sleek user interface.
 
 ### Configuration
 > When you insert the file into Roblox Studio, you'll see a folder called "DonationSystem". Inside of that, you'll find a script called "Core". At the top of this script is where all your settings are located.
+
 > If you are experienced with Roblox user interfaces, you can convert the donation list `Frame` into a `ScrollingFrame` to allow for more than five options to be shown.
 
 - The first setting you'll see is `DATA_KEY`. This is the key in which donation data is stored. Changing this will wipe any existing data stored by the donation board.
