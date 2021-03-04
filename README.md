@@ -5,7 +5,7 @@ Modular, open sourced donation board with a sleek user interface.
 1. Download the <a href="https://github.com/twinrbx/donation-board/raw/main/DonationSystem.rbxm">DonationSystem.rbxm</a> file from this repository.
 2. Drag the file into Roblox Studio.
 3. Create a developer product in your game for each donation amount.
-    - <a href="https://developer.roblox.com/en-us/articles/Developer-Products-In-Game-Purchases">Click to learn how to create developer products</a>
+    - <a href="https://developer.roblox.com/en-us/articles/Developer-Products-In-Game-Purchases" target="_blank">Click to learn how to create developer products</a>
 
 ### Configuration
 > When you insert the file into Roblox Studio, you'll see a folder called "DonationSystem". Inside of that, you'll find a script called "Core". At the top of this script is where all your settings are located.
