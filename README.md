@@ -2,7 +2,7 @@
 Modular, open sourced donation board with a sleek user interface.
 
 ### Setup
-1. Download the DonationBoard.rbxm file from this repository.
+1. Download the DonationSystem.rbxm file from this repository.
 2. Drag the file into Roblox Studio.
 3. Create a developer product in your game for each donation amount.
     - <a href="https://developer.roblox.com/en-us/articles/Developer-Products-In-Game-Purchases">Click to learn how to create developer products</a>
