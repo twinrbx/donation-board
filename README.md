@@ -1,5 +1,5 @@
 # donation-board
-Modular, open sourced donation board with a sleek user interface.
+Lightweight, open sourced donation board with a sleek user interface.
 
 ### Setup
 1. Download the <a href="https://github.com/twinrbx/donation-board/raw/main/DonationSystem.rbxm">DonationSystem.rbxm</a> file from this repository.
