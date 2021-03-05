@@ -7,8 +7,8 @@
  |____/ \___/|_| |_|\__,_|\__|_|\___/|_| |_| |____/ \___/ \__,_|_|  \__,_|
                                                                           
                                                                                        
-	GitHub Repository: https://github.io/twinrbx/donation-board
-	DevForum Thread: https://devforum.roblox.com
+	GitHub Repository: https://github.com/twinrbx/donation-board
+	DevForum Thread: https://devforum.roblox.com/quick-donation-board-monetize-in-a-snap
 	
 	Author @twinqle
 	Last updated: 3/4/21
