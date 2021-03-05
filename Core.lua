@@ -8,7 +8,7 @@
                                                                           
                                                                                        
 	GitHub Repository: https://github.com/twinrbx/donation-board
-	DevForum Thread: https://devforum.roblox.com/quick-donation-board-monetize-in-a-snap
+	DevForum Thread: https://devforum.roblox.com/t/quick-donation-board-monetize-in-a-snap/1084740
 	
 	Author @twinqle
 	Last updated: 3/4/21
