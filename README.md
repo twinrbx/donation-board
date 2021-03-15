@@ -26,4 +26,4 @@ DevForum thread: https://devforum.roblox.com/t/quick-donation-board-monetize-in-
 
 **You're done! Enjoy your donation board.**
 
-> This repository will not be monitored and pull requests will likely go unnoticed. IF you really want to make a pull request, shoot me (twinqle) a message via the Roblox DevForum so I can accept it. If you find a bug, report it to **Twin#0727** on Discord.
+> This repository will not be monitored and pull requests will likely go unnoticed. If you really want to make a pull request, shoot me (twinqle) a message via the Roblox DevForum so I can accept it. If you find a bug, report it to **Twin#0727** on Discord.
